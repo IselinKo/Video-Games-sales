@@ -1,0 +1,1 @@
+Her ser jeg på et datasett som inneholder informasjon om video spill salg fra hele verden
